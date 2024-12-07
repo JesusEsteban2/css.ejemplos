@@ -5,6 +5,9 @@ rust
 https://www.rust-lang.org
 
 webcomponent react angular vue
+https://react.dev
+https://angular.dev
+https://vuejs.org
 
 desing system atomic
 https://atomicdesign.bradfrost.com/table-of-contents/
@@ -21,3 +24,5 @@ https://qwik.dev
 nest.js nextjs
 https://nestjs.com
 https://nextjs.org
+
+postgree SQL, MySQL,
